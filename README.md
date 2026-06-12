@@ -60,4 +60,4 @@ Static Website Files
 
 ## Author
 
-Sabitha Reddy
+Varshitha Vari
